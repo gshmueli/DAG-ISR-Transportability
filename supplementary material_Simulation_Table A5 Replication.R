@@ -7,7 +7,7 @@
 # Line 459-566: Figure 5E
 
 #################################################################################
-# 1) Simulate the source data from Figure 4
+# 1) Simulate the source ("experimental") data from Figure 4; as such, influences to X are cut off by randomization. 
 
 rm(list=ls())
 n <- 1000000
